@@ -123,7 +123,7 @@ p {
     margin-bottom: 40px;
 }
 #mega_bakery > h2 {
-    margin-bottom: 12px;
+    margin-bottom: 16px;
 }
 #mega_bakery img{    
     width: 100%;
@@ -180,7 +180,7 @@ p {
     width: 100%;
     background: #fff;
     overflow: hidden;
-    padding-top: 40px;
+    padding-top: 60px;
     padding-bottom: 60px;
 }
 
@@ -188,9 +188,6 @@ p {
     float: left; 
     width: 33.33%;
     text-align: center;    
-}
-#new ul li a img {
-    width: 33.33%;
 }
 #new ul li > p {
     font-size: 12px;
@@ -207,8 +204,9 @@ p {
 }
 
 #new ul li > a > img {
-    width: 117px;
-    height: 135px;
+    /* width: 117px; */
+    width: 90%;
+    height: 100%;
     vertical-align: middle;
 }
 
