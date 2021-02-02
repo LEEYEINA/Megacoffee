@@ -105,11 +105,11 @@
 
 .address { 
     width: 100%;
-    max-width: 90%;
+    max-width: 94%;
     padding-top: 50px;
     padding-bottom: 50px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 3%;
+    padding-right: 3%;
     margin: 0 auto;
     /* display: block; */
 }
@@ -131,7 +131,8 @@
 }
 .address table tr td {
     text-align: left;
-    line-height: 20px;
+    vertical-align: top;
+    /* line-height: 20px; */
     font-size: 14px;
     font-weight: 500px;
 }
